@@ -11,6 +11,12 @@ O CV está disponível e com Direito Autoral ali no CNPq e autorizo para estudar
 
 **Decision:** Opta-se pelo VMware mas você deva converter...
 
+Para obter o três arquivos aptos ao VMware baixe por via (o 1º é o disco...:
+
+https://drive.google.com/file/d/1vUw36QyknrgmaGdr52JYvwpu9LLr3Kfw/view?usp=sharing
+https://drive.google.com/file/d/1Ar4HcKpEOVloFb70k6U_uMvuIJtD-g6g/view?usp=sharing
+https://drive.google.com/file/d/1sWk-uJJy13f2Jaw-jpVd_Ic8R-Ex9TU8/view?usp=sharing
+
 Converta se cabe indo pelo Windows
 
 * A priori --> winget --install qemu-img
