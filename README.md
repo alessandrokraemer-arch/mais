@@ -13,9 +13,9 @@ O CV está disponível e com Direito Autoral ali no CNPq e autorizo para estudar
 
 Para obter o três arquivos aptos ao VMware baixe por via (o 1º é o disco...:
 
-https://drive.google.com/file/d/1vUw36QyknrgmaGdr52JYvwpu9LLr3Kfw/view?usp=sharing
-https://drive.google.com/file/d/1Ar4HcKpEOVloFb70k6U_uMvuIJtD-g6g/view?usp=sharing
-https://drive.google.com/file/d/1sWk-uJJy13f2Jaw-jpVd_Ic8R-Ex9TU8/view?usp=sharing
+https://drive.google.com/file/d/1vaDOyb37X16Fu59NKGwfDKc4Jy7px-po/view?usp=drive_link
+https://drive.google.com/file/d/1MgOXdTYaeY5xTTMsSbwd_oLct8H9_Str/view?usp=drive_link
+https://drive.google.com/file/d/1hiGkfZowyT7ZO9UoMsgtKlapKRzXajdm/view?usp=drive_link
 
 Converta se cabe indo pelo Windows
 
