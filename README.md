@@ -17,6 +17,8 @@ https://drive.google.com/file/d/1vaDOyb37X16Fu59NKGwfDKc4Jy7px-po/view?usp=drive
 https://drive.google.com/file/d/1MgOXdTYaeY5xTTMsSbwd_oLct8H9_Str/view?usp=drive_link
 https://drive.google.com/file/d/1hiGkfZowyT7ZO9UoMsgtKlapKRzXajdm/view?usp=drive_link
 
+Aqueles trÊs arquivos ali são suficientes para execução da VM proposta. 
+
 Converta se cabe indo pelo Windows
 
 * A priori --> winget --install qemu-img
