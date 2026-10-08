@@ -11,8 +11,10 @@ O CV está disponível e com Direito Autoral ali no CNPq e autorizo para estudar
 
 **Decision:** Opta-se pelo VMware mas você deva converter...
 
+
 Converta se cabe indo pelo Windows
-Para o Virtual Box --> qemu-img convert -O vdi Ubuntu_64-bit-disk1.vmdk Ubuntu-26.vdi
+A priori --> winget --install qemu-img
+Conversão para VDI ao Virtual Box --> qemu-img convert -O vdi Ubuntu_64-bit-disk1.vmdk Ubuntu-26.vdi
 
 Essa VM pode ser transferida para a AWS ...
 
