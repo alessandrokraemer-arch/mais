@@ -15,7 +15,8 @@ Converta se cabe indo pelo Windows
 
 * A priori --> winget --install qemu-img
 * Conversão para VDI ao Virtual Box --> qemu-img convert -O vdi Ubuntu_64-bit-disk1.vmdk Ubuntu-26.vdi
-
+* Adiciono que em caso de erro ao Iniciar, opte por alterar o arquivo VMX, ali consta configuração e ajuste
+  
 Essa VM pode ser transferida para a AWS ...
 
 **Consequences:** Em geral aluno é quem observa aqui...
