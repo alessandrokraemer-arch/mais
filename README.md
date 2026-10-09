@@ -26,6 +26,7 @@ Converta se cabe indo pelo Windows
 * Adiciono que em caso de erro ao Iniciar, opte por alterar o arquivo VMX, ali consta configuração e ajuste
 
 Usuário de acesso o trivial: saas
+
 Senha a mesma
 
 Essa VM pode ser transferida para a AWS ...
