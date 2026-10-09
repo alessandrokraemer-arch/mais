@@ -11,7 +11,7 @@ O CV está disponível e com Direito Autoral ali no CNPq e autorizo para estudar
 
 **Decision:** Opta-se pelo VMware mas você deva converter...
 
-Para obter o três arquivos aptos ao VMware baixe por via (o 1º é o disco...:
+Para obter os três arquivos aptos ao VMware baixe por via (o 1º é o disco...:
 
 https://drive.google.com/file/d/1vaDOyb37X16Fu59NKGwfDKc4Jy7px-po/view?usp=drive_link
 https://drive.google.com/file/d/1MgOXdTYaeY5xTTMsSbwd_oLct8H9_Str/view?usp=drive_link
